@@ -1,5 +1,0 @@
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: Kapil Gautam
-description: I'm a passionate Full Stack Developer with experience in building scalable web applications, content management systems, CRM platforms, and media streaming solutions. I enjoy solving real-world problems using modern web technologies and continuously learning new tools.
